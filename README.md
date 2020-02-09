@@ -1,6 +1,9 @@
 
 Outlier Remover(ROW method) in python
 
+LINK :- https://pypi.org/project/outlier-remover-bhanu/
+                      or
+        https://github.com/eternaldemon/outlier_remover/archive/0.0.1.tar.gz
 
 This is a package for outlier remover using row remover method.
 
